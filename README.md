@@ -1,5 +1,7 @@
 # Exercice-front-end
 
+Exercice sur les technos vues en 1ère semaine de prairie
+
 ## Création d'une page HTML en groupe
 
 * Une partie HTML/CSS
@@ -17,3 +19,5 @@
   
 * Une partie jQuery (documentation : http://api.jquery.com/)
   * Quand on clique sur le bouton d'un des 3 blocs, on affiche un paragraphe de texte supplémentaire
+
+# !! ON FAIT LE POINT A 16H !!
