@@ -13,6 +13,7 @@
   
 * Une partie JavaScript
   * Quand on clique sur le bouton de la 2ème ligne, on affiche un overlayer sur la page
+  * Un bouton/lien "Fermer" dans l'overlayer qui le masque
   
 * Une partie jQuery
   * Quand on clique sur le bouton d'un des 3 blocs, on affiche un paragraphe de texte supplémentaire
