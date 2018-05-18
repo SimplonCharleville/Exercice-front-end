@@ -3,7 +3,7 @@
 ## Création d'une page HTML en groupe
 
 * Une partie HTML/CSS
-  * un header avec une image en backround et un titre
+  * un header avec une image en background et un titre
   * une barre de navigation horizontale
   * un "footer sitemap" avec 2/3 colonnes et liste à puces
   
