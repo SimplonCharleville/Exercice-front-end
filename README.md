@@ -1,7 +1,5 @@
 # Exercice-front-end
 
-Exercice sur les technos vues en 1ère semaine de prairie
-
 ## Création d'une page HTML en groupe
 
 * Une partie HTML/CSS
