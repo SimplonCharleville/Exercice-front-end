@@ -7,6 +7,12 @@
   * une barre de navigation horizontale
   * un "footer sitemap" avec 2/3 colonnes et liste à puces
   
-* Une partie corps de page avec Bootsrap
-  * Sur une 1ère ligne : 3 blocs côte à côte comprenant une image et un bloc de texte sous l'image + un "bouton" sous le texte
-  * Sur une 2nd ligne : une image avec du texte à droite de l'image (1/3 image, 2/3 texte)
+* Une partie "corps de page" avec Bootsrap
+  * Sur une 1ère ligne : 3 blocs côte à côte comprenant une image avec titre et un bloc de texte sous l'image + un bouton/lien sous le texte
+  * Sur une 2ème ligne : une image avec du texte à droite de l'image (1/3 image, 2/3 texte) + un bouton/lien sous le texte
+  
+* Une partie JavaScript
+  * Quand on clique sur le bouton de la 2ème ligne, on affiche un overlayer sur la page
+  
+* Une partie jQuery
+  * Quand on clique sur le bouton d'un des 3 blocs, on affiche un paragraphe de texte supplémentaire
