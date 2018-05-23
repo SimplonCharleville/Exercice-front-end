@@ -1,7 +1,8 @@
 # Exercice individuel
-# A réaliser correctement le plus rapidement possible
+## A réaliser correctement le plus rapidement possible
 
-## Création d'un formulaire HTML + page PHP de récupération des données et envoi par e-mail
+### Création d'un formulaire HTML + page PHP de récupération des données et envoi par e-mail
+#### Fichiers CSS et JS distincts dans des répertoires dédiés. Code indenté.
 
 * Une partie HTML/CSS
   * Un header simple avec image de fond en background et titre
@@ -12,7 +13,7 @@
     * Un label "E-mail" + champ
     * Un label "Se souvenir de moi" + case à cocher
     * Un bouton "Envoyer" pour valider le formulaire
-### Respect des bonnes pratiques des formulaires HTML : https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3/les-formulaires-8
+#### Respect des bonnes pratiques des formulaires HTML : https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3/les-formulaires-8
   
 * Une partie JavaScript
   * Quand on clique sur le bouton "Envoyer", une fonction vérifie que les champs oligatoires sont remplis :
