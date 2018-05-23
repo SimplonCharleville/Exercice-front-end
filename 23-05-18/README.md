@@ -20,10 +20,10 @@
     * Si les champs obligatoires ne sont pas remplis, on affiche une boite d'alerte indiquant les champs qui doivent être renseignés
   
 * Une partie PHP (documentation PHP officielle : http://php.net/manual/fr/)
-  * Dans une 2ème page, on récupère les valeurs des champs du formulaire :
+  * Dans une 2ème page (avec la même présentation), on récupère les valeurs des champs du formulaire :
+   * On affiche un message "Demande prise en compte" ou "Une erreur est survenue".
    * On affiche les données saisies (même présentation que dans le formulaire)
    * On envoie les données par e-mail
-   * On affiche un message "Merci, nous avons bien pris en compte votre demande".
 
 
 # !! Dès que vous avez terminé, vous me prévenez !!
