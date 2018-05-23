@@ -1,8 +1,10 @@
 # Exercice individuel
+# A réaliser correctement le plus rapidement possible
 
-## Création d'un formulaire HTML + page PHP de récupération des données en DB
+## Création d'un formulaire HTML + page PHP de récupération des données et envoi par e-mail
 
 * Une partie HTML/CSS
+  * Un header simple avec image de fond en background et titre
   * un formulaire contenant :
     * Un label "Titre" avec 2 boutons radio "Mme" "Mr" **(obligatoire)**
     * Un label "Prénom" + champ **obligatoire**
@@ -18,17 +20,10 @@
     * Si les champs obligatoires ne sont pas remplis, on affiche une boite d'alerte indiquant les champs qui doivent être renseignés
   
 * Une partie PHP (documentation PHP officielle : http://php.net/manual/fr/)
-  * Dans une 2ème page, on récupère les valeurs des champs du formulaire
-  
-* Une partie DB/SQL
-  * Création d'une base de données MySQL via phpMyAdmin comprenant une table avec :
-    * Un champ #ID
-    * Un champ Titre
-    * Un champ Prénom
-    * Un champ Nom
-    * Un champ E-mail
-    * Un champ Souvenir
-    * Un champ Date indiquant la date de saisie
-### AIDE : https://openclassrooms.com/courses/concevez-votre-site-web-avec-php-et-mysql/phpmyadmin-5
+  * Dans une 2ème page, on récupère les valeurs des champs du formulaire :
+   * On affiche les données saisies (même présentation que dans le formulaire)
+   * On envoie les données par e-mail
+   * On affiche un message "Merci, nous avons bien pris en compte votre demande".
+
 
 # !! Dès que vous avez terminé, vous me prévenez !!
